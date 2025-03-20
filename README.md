@@ -4,10 +4,9 @@ Me llamo José Luis, y soy ingeniero informático especializado en **Data Scienc
 
 ## 🧑‍💻 Tecnologías y habilidades clave
 
-- **Lenguajes:** Python, SQL, R, C
-- **Data Science & ML:** Machine Learning, Deep Learning, MLOps, Data Mining
-- **Herramientas y plataformas:** Docker, Linux, Cisco Networking, Git
-- **Matemáticas:** Estadística aplicada, Redes Bayesianas, Modelos gráficos probabilísticos
+- **Data Science & Machine Learning:** Python, SQL, Machine Learning, Data Science, Deep Learning, MLOps, Applied Mathematics
+- **Systems & Infrastructure:** Linux, Docker, Cisco Networking
+- **Soft Skills:** Effective Communication, Problem Solving & Critical Thinking, Adaptability & Flexibility
 
 ## 🎓 Formación destacada
 
