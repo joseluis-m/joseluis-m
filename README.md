@@ -10,9 +10,9 @@ Me llamo José Luis, y soy ingeniero informático especializado en **Data Scienc
 
 ## 🎓 Formación destacada
 
-- Máster en Formación del Profesorado (Universidad Villanueva)
-- Máster en Nuevas Tecnologías en Informática (Universidad de Murcia)
-- Grado en Ingeniería Informática (UCAM)
+- Máster en Formación del Profesorado (Universidad Villanueva, 2025)
+- Máster en Nuevas Tecnologías en Informática (UMU, 2020)
+- Grado en Ingeniería Informática (UCAM, 2015-2019)
 - Estudiante del programa de Doctorado en Inteligencia Artificial (UPM, 2020-2024)
 
 ## 📚 Certificaciones clave
